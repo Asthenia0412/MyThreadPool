@@ -1,9 +1,8 @@
-package com.xiaoyongcai.io;
+package com.xiaoyogncai.io;
 
-import com.xiaoyongcai.io.handler.ThrowRejectHandle;
+import com.xiaoyogncai.io.handler.ThrowRejectHandle;
 
 import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.TimeUnit;
 
 public class TestMain {

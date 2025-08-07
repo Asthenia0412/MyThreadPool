@@ -1,6 +1,7 @@
-package com.xiaoyongcai.io.handler;
+package com.xiaoyogncai.io.handler;
 
-import com.xiaoyongcai.io.XExecutorService;
+
+import com.xiaoyogncai.io.XExecutorService;
 
 public class ThrowRejectHandle implements RejectHandle{
     @Override

@@ -1,4 +1,4 @@
-package com.xiaoyongcai.io;
+package com.xiaoyogncai.io;
 
 public interface XExecutorService {
 
